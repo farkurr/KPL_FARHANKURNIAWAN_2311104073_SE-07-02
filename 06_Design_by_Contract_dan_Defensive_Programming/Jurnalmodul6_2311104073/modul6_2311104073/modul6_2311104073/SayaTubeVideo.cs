@@ -9,9 +9,10 @@ public class SayaTubeVideo
     public SayaTubeVideo(string title)
     {
         if (title == null || title.Length > 200)
-            throw new ArgumentException("Judul video invalid");
+            throw new ArgumentException("Judul video tidak boleh null dan maksimal 200 karakter");
 
-        this.id = new Random().Next(10000, 99999);
+        Random rand = new Random();
+        this.id = rand.Next(10000, 99999);
         this.title = title;
         this.playCount = 0;
     }
@@ -19,7 +20,7 @@ public class SayaTubeVideo
     public void IncreasePlayCount(int count)
     {
         if (count < 0 || count > 25000000)
-            throw new ArgumentOutOfRangeException("Jumlah play count invalid");
+            throw new ArgumentOutOfRangeException("Jumlah play count harus 0 - 25.000.000");
 
         checked
         {
@@ -29,9 +30,11 @@ public class SayaTubeVideo
 
     public void PrintVideoDetails()
     {
-        Console.WriteLine($"ID: {id}");
-        Console.WriteLine($"Title: {title}");
-        Console.WriteLine($"Play Count: {playCount}");
+        Console.WriteLine("======== VIDEO DETAILS ========");
+        Console.WriteLine($"ID        : {id}");
+        Console.WriteLine($"Title     : {title}");
+        Console.WriteLine($"PlayCount : {playCount}");
+        Console.WriteLine();
     }
 
     public int GetPlayCount() => playCount;

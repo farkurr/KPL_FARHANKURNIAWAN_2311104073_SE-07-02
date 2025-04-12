@@ -10,11 +10,24 @@ public class SayaTubeUser
     public SayaTubeUser(string username)
     {
         if (username == null || username.Length > 100)
-            throw new ArgumentException("Username invalid");
+            throw new ArgumentException("Username tidak boleh null dan maksimal 100 karakter");
 
         this.Username = username;
         this.uploadedVideos = new List<SayaTubeVideo>();
-        this.id = new Random().Next(10000, 99999);
+
+        Random rand = new Random();
+        this.id = rand.Next(10000, 99999);
+    }
+
+    public void AddVideo(SayaTubeVideo video)
+    {
+        if (video == null)
+            throw new ArgumentNullException("Video tidak boleh null");
+
+        if (video.GetPlayCount() >= int.MaxValue)
+            throw new ArgumentException("PlayCount video terlalu besar");
+
+        uploadedVideos.Add(video);
     }
 
     public int GetTotalVideoPlayCount()
@@ -27,20 +40,17 @@ public class SayaTubeUser
         return total;
     }
 
-    public void AddVideo(SayaTubeVideo video)
-    {
-        if (video == null || video.GetPlayCount() >= int.MaxValue)
-            throw new ArgumentException("Video tidak valid");
-
-        uploadedVideos.Add(video);
-    }
-
     public void PrintAllVideoPlaycount()
     {
+        Console.WriteLine("======== VIDEO USER ========");
         Console.WriteLine($"User: {Username}");
-        for (int i = 0; i < Math.Min(uploadedVideos.Count, 8); i++)
+
+        int maxPrint = Math.Min(8, uploadedVideos.Count); // POSTCONDITION
+        for (int i = 0; i < maxPrint; i++)
         {
             Console.WriteLine($"Video {i + 1} judul: {uploadedVideos[i].GetTitle()}");
         }
+
+        Console.WriteLine();
     }
 }
