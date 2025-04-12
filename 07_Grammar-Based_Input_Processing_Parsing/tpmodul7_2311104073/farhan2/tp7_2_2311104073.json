@@ -1,0 +1,16 @@
+{
+  "mataKuliah": [
+    {
+      "kode": "IF4021",
+      "nama": "Pemrograman Berbasis Objek"
+    },
+    {
+      "kode": "IF4022",
+      "nama": "Struktur Data"
+    },
+    {
+      "kode": "IF4023",
+      "nama": "Basis Data"
+    }
+  ]
+}
