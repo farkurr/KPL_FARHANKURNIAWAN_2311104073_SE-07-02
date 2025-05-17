@@ -1,0 +1,6 @@
+D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\10_Library_Construction\TP\tpmodul10_2311104073\AljabarLibraries\bin\Debug\AljabarLibraries.dll
+D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\10_Library_Construction\TP\tpmodul10_2311104073\AljabarLibraries\bin\Debug\AljabarLibraries.pdb
+D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\10_Library_Construction\TP\tpmodul10_2311104073\AljabarLibraries\obj\Debug\AljabarLibraries.csproj.AssemblyReference.cache
+D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\10_Library_Construction\TP\tpmodul10_2311104073\AljabarLibraries\obj\Debug\AljabarLibraries.csproj.CoreCompileInputs.cache
+D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\10_Library_Construction\TP\tpmodul10_2311104073\AljabarLibraries\obj\Debug\AljabarLibraries.dll
+D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\10_Library_Construction\TP\tpmodul10_2311104073\AljabarLibraries\obj\Debug\AljabarLibraries.pdb
