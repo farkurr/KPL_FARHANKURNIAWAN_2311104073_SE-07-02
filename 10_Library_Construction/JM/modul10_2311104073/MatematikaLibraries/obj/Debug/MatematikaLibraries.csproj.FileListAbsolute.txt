@@ -1,6 +1,0 @@
-D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\10_Library_Construction\JM\modul10_2311104073\MatematikaLibraries\bin\Debug\MatematikaLibraries.dll
-D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\10_Library_Construction\JM\modul10_2311104073\MatematikaLibraries\bin\Debug\MatematikaLibraries.pdb
-D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\10_Library_Construction\JM\modul10_2311104073\MatematikaLibraries\obj\Debug\MatematikaLibraries.csproj.AssemblyReference.cache
-D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\10_Library_Construction\JM\modul10_2311104073\MatematikaLibraries\obj\Debug\MatematikaLibraries.csproj.CoreCompileInputs.cache
-D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\10_Library_Construction\JM\modul10_2311104073\MatematikaLibraries\obj\Debug\MatematikaLibraries.dll
-D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\10_Library_Construction\JM\modul10_2311104073\MatematikaLibraries\obj\Debug\MatematikaLibraries.pdb
