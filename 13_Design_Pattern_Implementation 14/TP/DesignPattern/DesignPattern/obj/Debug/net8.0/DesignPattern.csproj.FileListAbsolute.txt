@@ -1,0 +1,15 @@
+D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\13_Design_Pattern_Implementation 14\TP\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\13_Design_Pattern_Implementation 14\TP\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.AssemblyInfoInputs.cache
+D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\13_Design_Pattern_Implementation 14\TP\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.AssemblyInfo.cs
+D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\13_Design_Pattern_Implementation 14\TP\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.csproj.CoreCompileInputs.cache
+D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\13_Design_Pattern_Implementation 14\TP\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.sourcelink.json
+D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\13_Design_Pattern_Implementation 14\TP\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.exe
+D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\13_Design_Pattern_Implementation 14\TP\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.deps.json
+D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\13_Design_Pattern_Implementation 14\TP\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.runtimeconfig.json
+D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\13_Design_Pattern_Implementation 14\TP\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.dll
+D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\13_Design_Pattern_Implementation 14\TP\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.pdb
+D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\13_Design_Pattern_Implementation 14\TP\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.dll
+D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\13_Design_Pattern_Implementation 14\TP\DesignPattern\DesignPattern\obj\Debug\net8.0\refint\DesignPattern.dll
+D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\13_Design_Pattern_Implementation 14\TP\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.pdb
+D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\13_Design_Pattern_Implementation 14\TP\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.genruntimeconfig.cache
+D:\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\13_Design_Pattern_Implementation 14\TP\DesignPattern\DesignPattern\obj\Debug\net8.0\ref\DesignPattern.dll
