@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\14_Clean_Code\\TP\\CovidChecker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC2CA73-C143-4141-A7C0-37A8939701E9}|CovidChecker\\CovidChecker.csproj|d:\\kpl_farhan kurniawan_2311104073_se-07-02\\14_clean_code\\tp\\covidchecker\\covidchecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC2CA73-C143-4141-A7C0-37A8939701E9}|CovidChecker\\CovidChecker.csproj|solutionrelative:covidchecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC2CA73-C143-4141-A7C0-37A8939701E9}|CovidChecker\\CovidChecker.csproj|d:\\kpl_farhan kurniawan_2311104073_se-07-02\\14_clean_code\\tp\\covidchecker\\covidchecker\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC2CA73-C143-4141-A7C0-37A8939701E9}|CovidChecker\\CovidChecker.csproj|solutionrelative:covidchecker\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\14_Clean_Code\\TP\\CovidChecker\\CovidChecker\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "CovidChecker\\CovidConfig.cs",
+              "ToolTip": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\14_Clean_Code\\TP\\CovidChecker\\CovidChecker\\CovidConfig.cs",
+              "RelativeToolTip": "CovidChecker\\CovidConfig.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:40:09.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\14_Clean_Code\\TP\\CovidChecker\\CovidChecker\\Program.cs",
+              "RelativeDocumentMoniker": "CovidChecker\\Program.cs",
+              "ToolTip": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\14_Clean_Code\\TP\\CovidChecker\\CovidChecker\\Program.cs",
+              "RelativeToolTip": "CovidChecker\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:39:25.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
