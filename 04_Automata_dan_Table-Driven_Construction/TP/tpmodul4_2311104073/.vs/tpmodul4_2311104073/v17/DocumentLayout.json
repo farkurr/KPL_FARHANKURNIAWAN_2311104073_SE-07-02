@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\04_Automata_dan_Table-Driven_Construction\\TP\\tpmodul4_2311104073\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78109177-1B1D-4607-86BC-F5887C40E944}|tpmodul4_2311104073\\tpmodul4_2311104073.csproj|d:\\kpl_farhan kurniawan_2311104073_se-07-02\\04_automata_dan_table-driven_construction\\tp\\tpmodul4_2311104073\\tpmodul4_2311104073\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78109177-1B1D-4607-86BC-F5887C40E944}|tpmodul4_2311104073\\tpmodul4_2311104073.csproj|solutionrelative:tpmodul4_2311104073\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78109177-1B1D-4607-86BC-F5887C40E944}|tpmodul4_2311104073\\tpmodul4_2311104073.csproj|d:\\kpl_farhan kurniawan_2311104073_se-07-02\\04_automata_dan_table-driven_construction\\tp\\tpmodul4_2311104073\\tpmodul4_2311104073\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78109177-1B1D-4607-86BC-F5887C40E944}|tpmodul4_2311104073\\tpmodul4_2311104073.csproj|solutionrelative:tpmodul4_2311104073\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KodePos.cs",
+              "DocumentMoniker": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\04_Automata_dan_Table-Driven_Construction\\TP\\tpmodul4_2311104073\\tpmodul4_2311104073\\KodePos.cs",
+              "RelativeDocumentMoniker": "tpmodul4_2311104073\\KodePos.cs",
+              "ToolTip": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\04_Automata_dan_Table-Driven_Construction\\TP\\tpmodul4_2311104073\\tpmodul4_2311104073\\KodePos.cs",
+              "RelativeToolTip": "tpmodul4_2311104073\\KodePos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:05:26.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\04_Automata_dan_Table-Driven_Construction\\TP\\tpmodul4_2311104073\\tpmodul4_2311104073\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul4_2311104073\\Program.cs",
+              "ToolTip": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\04_Automata_dan_Table-Driven_Construction\\TP\\tpmodul4_2311104073\\tpmodul4_2311104073\\Program.cs",
+              "RelativeToolTip": "tpmodul4_2311104073\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:04:57.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
