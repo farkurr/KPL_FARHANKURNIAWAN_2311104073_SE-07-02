@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TP\\tpmodul12_2311104073\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40AE96C2-A6F8-4339-94A2-F7FC9A440791}|tpmodul12_23111040743\\tpmodul12_23111040743.csproj|d:\\kpl_farhan kurniawan_2311104073_se-07-02\\12_performance_analysis_unit_testing_dan_debugging\\tp\\tpmodul12_2311104073\\tpmodul12_23111040743\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AE96C2-A6F8-4339-94A2-F7FC9A440791}|tpmodul12_23111040743\\tpmodul12_23111040743.csproj|solutionrelative:tpmodul12_23111040743\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E3B2B2-5A9B-437A-8679-34AC4F913785}|tpmodul12_2311104073\\tpmodul12_2311104073.csproj|d:\\kpl_farhan kurniawan_2311104073_se-07-02\\12_performance_analysis_unit_testing_dan_debugging\\tp\\tpmodul12_2311104073\\tpmodul12_2311104073\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E3B2B2-5A9B-437A-8679-34AC4F913785}|tpmodul12_2311104073\\tpmodul12_2311104073.csproj|solutionrelative:tpmodul12_2311104073\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AE96C2-A6F8-4339-94A2-F7FC9A440791}|tpmodul12_23111040743\\tpmodul12_23111040743.csproj|d:\\kpl_farhan kurniawan_2311104073_se-07-02\\12_performance_analysis_unit_testing_dan_debugging\\tp\\tpmodul12_2311104073\\tpmodul12_23111040743\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AE96C2-A6F8-4339-94A2-F7FC9A440791}|tpmodul12_23111040743\\tpmodul12_23111040743.csproj|solutionrelative:tpmodul12_23111040743\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AE96C2-A6F8-4339-94A2-F7FC9A440791}|tpmodul12_23111040743\\tpmodul12_23111040743.csproj|d:\\kpl_farhan kurniawan_2311104073_se-07-02\\12_performance_analysis_unit_testing_dan_debugging\\tp\\tpmodul12_2311104073\\tpmodul12_23111040743\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AE96C2-A6F8-4339-94A2-F7FC9A440791}|tpmodul12_23111040743\\tpmodul12_23111040743.csproj|solutionrelative:tpmodul12_23111040743\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AE96C2-A6F8-4339-94A2-F7FC9A440791}|tpmodul12_23111040743\\tpmodul12_23111040743.csproj|d:\\kpl_farhan kurniawan_2311104073_se-07-02\\12_performance_analysis_unit_testing_dan_debugging\\tp\\tpmodul12_2311104073\\tpmodul12_23111040743\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AE96C2-A6F8-4339-94A2-F7FC9A440791}|tpmodul12_23111040743\\tpmodul12_23111040743.csproj|solutionrelative:tpmodul12_23111040743\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AE96C2-A6F8-4339-94A2-F7FC9A440791}|tpmodul12_23111040743\\tpmodul12_23111040743.csproj|d:\\kpl_farhan kurniawan_2311104073_se-07-02\\12_performance_analysis_unit_testing_dan_debugging\\tp\\tpmodul12_2311104073\\tpmodul12_23111040743\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40AE96C2-A6F8-4339-94A2-F7FC9A440791}|tpmodul12_23111040743\\tpmodul12_23111040743.csproj|solutionrelative:tpmodul12_23111040743\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TP\\tpmodul12_2311104073\\tpmodul12_23111040743\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul12_23111040743\\Program.cs",
+              "ToolTip": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TP\\tpmodul12_2311104073\\tpmodul12_23111040743\\Program.cs",
+              "RelativeToolTip": "tpmodul12_23111040743\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:49:38.306Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TP\\tpmodul12_2311104073\\tpmodul12_2311104073\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "tpmodul12_2311104073\\UnitTest1.cs",
+              "ToolTip": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TP\\tpmodul12_2311104073\\tpmodul12_2311104073\\UnitTest1.cs",
+              "RelativeToolTip": "tpmodul12_2311104073\\UnitTest1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA9wCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:57:43.805Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TP\\tpmodul12_2311104073\\tpmodul12_23111040743\\Helper.cs",
+              "RelativeDocumentMoniker": "tpmodul12_23111040743\\Helper.cs",
+              "ToolTip": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TP\\tpmodul12_2311104073\\tpmodul12_23111040743\\Helper.cs",
+              "RelativeToolTip": "tpmodul12_23111040743\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:49:53.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TP\\tpmodul12_2311104073\\tpmodul12_23111040743\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "tpmodul12_23111040743\\Form1.Designer.cs",
+              "ToolTip": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TP\\tpmodul12_2311104073\\tpmodul12_23111040743\\Form1.Designer.cs",
+              "RelativeToolTip": "tpmodul12_23111040743\\Form1.Designer.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:47:38.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TP\\tpmodul12_2311104073\\tpmodul12_23111040743\\Form1.cs",
+              "RelativeDocumentMoniker": "tpmodul12_23111040743\\Form1.cs",
+              "ToolTip": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TP\\tpmodul12_2311104073\\tpmodul12_23111040743\\Form1.cs",
+              "RelativeToolTip": "tpmodul12_23111040743\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:45:49.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TP\\tpmodul12_2311104073\\tpmodul12_23111040743\\Form1.cs",
+              "RelativeDocumentMoniker": "tpmodul12_23111040743\\Form1.cs",
+              "ToolTip": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TP\\tpmodul12_2311104073\\tpmodul12_23111040743\\Form1.cs [Design]",
+              "RelativeToolTip": "tpmodul12_23111040743\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:47:31.477Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
