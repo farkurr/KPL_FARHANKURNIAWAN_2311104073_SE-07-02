@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{38FD2CB9-94BE-4ACA-AA50-326A6ED7F1A2}|tpmodul14_2311104073\\tpmodul14_2311104073.csproj|solutionrelative:tpmodul14_2311104073\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{38FD2CB9-94BE-4ACA-AA50-326A6ED7F1A2}|tpmodul14_2311104073\\tpmodul14_2311104073.csproj|d:\\kpl_farhan kurniawan_2311104073_se-07-02\\04_automata_dan_table-driven_construction\\tp\\tpmodul14_2311104073\\tpmodul14_2311104073\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FD2CB9-94BE-4ACA-AA50-326A6ED7F1A2}|tpmodul14_2311104073\\tpmodul14_2311104073.csproj|solutionrelative:tpmodul14_2311104073\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{38FD2CB9-94BE-4ACA-AA50-326A6ED7F1A2}|tpmodul14_2311104073\\tpmodul14_2311104073.csproj|d:\\kpl_farhan kurniawan_2311104073_se-07-02\\04_automata_dan_table-driven_construction\\tp\\tpmodul14_2311104073\\tpmodul14_2311104073\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38FD2CB9-94BE-4ACA-AA50-326A6ED7F1A2}|tpmodul14_2311104073\\tpmodul14_2311104073.csproj|solutionrelative:tpmodul14_2311104073\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,12 +35,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DoorMachine.cs",
+              "DocumentMoniker": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\04_Automata_dan_Table-Driven_Construction\\TP\\tpmodul14_2311104073\\tpmodul14_2311104073\\DoorMachine.cs",
+              "RelativeDocumentMoniker": "tpmodul14_2311104073\\DoorMachine.cs",
+              "ToolTip": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\04_Automata_dan_Table-Driven_Construction\\TP\\tpmodul14_2311104073\\tpmodul14_2311104073\\DoorMachine.cs*",
+              "RelativeToolTip": "tpmodul14_2311104073\\DoorMachine.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:16:11.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "KodePos.cs",
               "DocumentMoniker": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\04_Automata_dan_Table-Driven_Construction\\TP\\tpmodul14_2311104073\\tpmodul14_2311104073\\KodePos.cs",
               "RelativeDocumentMoniker": "tpmodul14_2311104073\\KodePos.cs",
-              "ToolTip": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\04_Automata_dan_Table-Driven_Construction\\TP\\tpmodul14_2311104073\\tpmodul14_2311104073\\KodePos.cs*",
-              "RelativeToolTip": "tpmodul14_2311104073\\KodePos.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\04_Automata_dan_Table-Driven_Construction\\TP\\tpmodul14_2311104073\\tpmodul14_2311104073\\KodePos.cs",
+              "RelativeToolTip": "tpmodul14_2311104073\\KodePos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T15:12:43.038Z",
               "EditorCaption": ""
@@ -47,9 +64,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\04_Automata_dan_Table-Driven_Construction\\TP\\tpmodul14_2311104073\\tpmodul14_2311104073\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul14_2311104073\\Program.cs",
-              "ToolTip": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\04_Automata_dan_Table-Driven_Construction\\TP\\tpmodul14_2311104073\\tpmodul14_2311104073\\Program.cs*",
-              "RelativeToolTip": "tpmodul14_2311104073\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\04_Automata_dan_Table-Driven_Construction\\TP\\tpmodul14_2311104073\\tpmodul14_2311104073\\Program.cs",
+              "RelativeToolTip": "tpmodul14_2311104073\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T15:12:03.705Z",
               "EditorCaption": ""

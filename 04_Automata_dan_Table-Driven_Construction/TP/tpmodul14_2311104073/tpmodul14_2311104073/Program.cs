@@ -5,5 +5,9 @@
         KodePos kp = new KodePos();
         Console.WriteLine("Kode Pos Batununggal: " + kp.getKodePos("Batununggal"));
         Console.WriteLine("Kode Pos Maleer: " + kp.getKodePos("Maleer"));
+        DoorMachine pintu = new DoorMachine();
+        pintu.buka();
+        pintu.kunci();
+
     }
 }
