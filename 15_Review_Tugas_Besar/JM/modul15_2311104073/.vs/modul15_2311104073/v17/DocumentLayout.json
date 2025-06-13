@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\15_Review_Tugas_Besar\\JM\\modul15_2311104073\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD499B9E-9DF1-4E33-9176-5EEA34E948CE}|modul15_2311104073\\modul15_2311104073.csproj|d:\\kpl_farhan kurniawan_2311104073_se-07-02\\15_review_tugas_besar\\jm\\modul15_2311104073\\modul15_2311104073\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD499B9E-9DF1-4E33-9176-5EEA34E948CE}|modul15_2311104073\\modul15_2311104073.csproj|solutionrelative:modul15_2311104073\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD499B9E-9DF1-4E33-9176-5EEA34E948CE}|modul15_2311104073\\modul15_2311104073.csproj|d:\\kpl_farhan kurniawan_2311104073_se-07-02\\15_review_tugas_besar\\jm\\modul15_2311104073\\modul15_2311104073\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD499B9E-9DF1-4E33-9176-5EEA34E948CE}|modul15_2311104073\\modul15_2311104073.csproj|solutionrelative:modul15_2311104073\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD499B9E-9DF1-4E33-9176-5EEA34E948CE}|modul15_2311104073\\modul15_2311104073.csproj|d:\\kpl_farhan kurniawan_2311104073_se-07-02\\15_review_tugas_besar\\jm\\modul15_2311104073\\modul15_2311104073\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD499B9E-9DF1-4E33-9176-5EEA34E948CE}|modul15_2311104073\\modul15_2311104073.csproj|solutionrelative:modul15_2311104073\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD499B9E-9DF1-4E33-9176-5EEA34E948CE}|modul15_2311104073\\modul15_2311104073.csproj|d:\\kpl_farhan kurniawan_2311104073_se-07-02\\15_review_tugas_besar\\jm\\modul15_2311104073\\modul15_2311104073\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD499B9E-9DF1-4E33-9176-5EEA34E948CE}|modul15_2311104073\\modul15_2311104073.csproj|solutionrelative:modul15_2311104073\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\15_Review_Tugas_Besar\\JM\\modul15_2311104073\\modul15_2311104073\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "modul15_2311104073\\CovidConfig.cs",
+              "ToolTip": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\15_Review_Tugas_Besar\\JM\\modul15_2311104073\\modul15_2311104073\\CovidConfig.cs",
+              "RelativeToolTip": "modul15_2311104073\\CovidConfig.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:39:24.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\15_Review_Tugas_Besar\\JM\\modul15_2311104073\\modul15_2311104073\\User.cs",
+              "RelativeDocumentMoniker": "modul15_2311104073\\User.cs",
+              "ToolTip": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\15_Review_Tugas_Besar\\JM\\modul15_2311104073\\modul15_2311104073\\User.cs",
+              "RelativeToolTip": "modul15_2311104073\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:16:39.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\15_Review_Tugas_Besar\\JM\\modul15_2311104073\\modul15_2311104073\\UserManager.cs",
+              "RelativeDocumentMoniker": "modul15_2311104073\\UserManager.cs",
+              "ToolTip": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\15_Review_Tugas_Besar\\JM\\modul15_2311104073\\modul15_2311104073\\UserManager.cs",
+              "RelativeToolTip": "modul15_2311104073\\UserManager.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAmwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:27:04.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\15_Review_Tugas_Besar\\JM\\modul15_2311104073\\modul15_2311104073\\Program.cs",
+              "RelativeDocumentMoniker": "modul15_2311104073\\Program.cs",
+              "ToolTip": "D:\\KPL_FARHAN KURNIAWAN_2311104073_SE-07-02\\15_Review_Tugas_Besar\\JM\\modul15_2311104073\\modul15_2311104073\\Program.cs",
+              "RelativeToolTip": "modul15_2311104073\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:25:57.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
